@@ -44,5 +44,6 @@
   },
   "devDependencies": {
     "gh-pages": "^3.2.3"
-  }
+  },
+  "homepage": "sjohn179.github.io/redux-store"
 }
